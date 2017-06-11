@@ -1,2 +1,2 @@
 # Basic-Portfolio
-Basic Bio 
+Basic Bio about myself.
