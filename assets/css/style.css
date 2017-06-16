@@ -88,14 +88,14 @@ header:after{
 	float: left;
 	padding: 30px;
 	margin-top: 50px;
-	margin-left: 290px;
+	margin-left: 0;
 }
 
 .nav{
 	float: right;
 	padding-top: 20px;
 	margin-top: 40px;
-	margin-right: 250px;
+	margin-right: 0;
 }
 
 .link{
@@ -195,9 +195,9 @@ input[type=submit] {
 
 }
 
-.droplet{
-	width: 250px;
-	height: 250px;
+.image{
+	width: 300px;
+	height: 300px;
 	padding: 20px;
 	float: left;
 	position: relative;
@@ -207,95 +207,67 @@ input[type=submit] {
 	background-color: #4aaaa5;
 	color: #ffffff;
 	float: left;
-	margin-top: 180px;
+	margin-top: 230px;
 	margin-left: 20px;
 	position: absolute;
 	padding: 10px;
-	width: 210px;
+	width: 260px;
 	text-align: center;
 	font-family:font-family: 'Georgia', Times, Times New Roman, serif;;
 	font-size: 24px;	
-}
-
-.earbuds{	
-	width: 250px;
-	height: 250px;
-	padding: 20px;
-	float: left;
 }
 
 .rpg{
 	background-color: #4aaaa5;
 	color: #ffffff;
 	float: left;
-	margin-top: 180px;
-	margin-left: 270px;
+	margin-top: 231px;
+	margin-left: 319px;
 	position: absolute;
 	padding: 10px;
-	width: 210px;
+	width: 260px;
 	text-align: center;
 	font-family:font-family: 'Georgia', Times, Times New Roman, serif;;
 	font-size: 24px;	
-}
-
-.ipad{
-	width: 250px;
-	height: 250px;
-	padding: 20px;
-	float: left;
 }
 
 .trivia{
 	background-color: #4aaaa5;
 	color: #ffffff;
 	float: left;
-	margin-top: 430px;
+	margin-top: 530px;
 	margin-left: 20px;
 	position: absolute;
 	padding: 10px;
-	width: 210px;
+	width: 260px;
 	text-align: center;
 	font-family:font-family: 'Georgia', Times, Times New Roman, serif;;
 	font-size: 24px;	
-}
-
-.laptop{
-	width: 250px;
-	height: 250px;
-	padding: 20px;
-	float: left;
 }
 
 .rutgers{
 	background-color: #4aaaa5;
 	color: #ffffff;
 	float: left;
-	margin-top: 432px;
-	margin-left: 270px;
+	margin-top: 532px;
+	margin-left: 319px;
 	position: absolute;
 	padding: 10px;
-	width: 210px;
+	width: 260px;
 	text-align: center;
 	font-family:font-family: 'Georgia', Times, Times New Roman, serif;;
 	font-size: 22px;	
-}
-
-.sunset{
-	width: 250px;
-	height: 250px;
-	padding: 20px;
-	float: left;
 }
 
 .rock{
 	background-color: #4aaaa5;
 	color: #ffffff;
 	float: left;
-	margin-top: 680px;
+	margin-top: 831px;
 	margin-left: 20px;
 	position: absolute;
 	padding: 10px;
-	width: 210px;
+	width: 260px;
 	text-align: center;
 	font-family:font-family: 'Georgia', Times, Times New Roman, serif;;
 	font-size: 22px;	
