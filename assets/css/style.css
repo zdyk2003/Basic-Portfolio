@@ -52,9 +52,6 @@ hr{
     margin-bottom: 15px;
 }
 
-
-
-
 .container{
 	width: 100%;
 	max-width: 960px;
@@ -181,6 +178,8 @@ input[type=submit] {
 
 .message{
 	height: 200px;
+	width: 615px;
+	padding-left:0;
 }
 
 
